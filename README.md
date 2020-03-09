@@ -1,4 +1,6 @@
 # Competitive Programming
+<n> Problems solved: 49 </n>
+
 >en-us<br>
 Here I have the solution for a lot of problems from some competitive programming online judges, like URI, CodeForces and Vjudge. Codes made here weren't designed to have good readability and some solutions are not even optimized, because were made
 fast and just to pass with sufficient time in judges ( by the way, I hate time limit exceeded... ).
