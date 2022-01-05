@@ -3,7 +3,7 @@
 
 >en-us<br>
 Here I have the solution for a lot of problems from some competitive programming online judges, like URI, CodeForces and Vjudge. Codes made here weren't designed to have good readability and some solutions are not even optimized, because were made
-fast and just to pass with sufficient time in judges ( by the way, I hate time limit exceeded... ).
+fast and just to pass with sufficient time in judges ( All the hate for time limit exceeded... ).
 Each folder name indicates which judge I was using for certain problem, so you can find question text really easy using the problems id in its site.
 
 >pt-br<br>
